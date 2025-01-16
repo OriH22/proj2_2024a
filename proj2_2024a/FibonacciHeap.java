@@ -10,6 +10,7 @@ import java.awt.geom.NoninvertibleTransformException;
 public class FibonacciHeap
 {
 	public HeapNode min;
+	public HeapNode first;
 	public int size;
 	public int numTrees;
 	/**
